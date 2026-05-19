@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/styles/app.qss</file>
+        <file>resources/icons/dashboard.svg</file>
+        <file>resources/icons/inventory.svg</file>
+        <file>resources/icons/orders.svg</file>
+        <file>resources/icons/add.svg</file>
+        <file>resources/icons/edit.svg</file>
+        <file>resources/icons/delete.svg</file>
+        <file>resources/icons/checkout.svg</file>
+        <file>resources/icons/medicine.svg</file>
+        <file>resources/icons/stock.svg</file>
+        <file>resources/icons/revenue.svg</file>
+    </qresource>
+</RCC>
